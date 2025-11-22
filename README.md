@@ -6,7 +6,7 @@
 
 Um jogo simples com três mapas e um personagem. Foi divertido e desafiador criar esse jogo, como o Java Script não é a minha linguagem principal, claro que houveram desafios ao longo do desenvolvimento.
 
-Onde posso ver sua demonstração? [Click aqui](https://yurisalesdeoliveira.github.io/myFirstGame/)
+Onde posso ver sua demonstração? [Click aqui](https://yusadeol.github.io/pixel-grove/)
 
 ### Tecnologias
 
